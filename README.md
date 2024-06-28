@@ -1,4 +1,4 @@
-# GBN_SR_protocol
+# GBN_SR_protocols
 Using socket library to simulate GBN/SR protocol in Python， supporting file transfer in C/S mode.
 
 ##### 客户端
